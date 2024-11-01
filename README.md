@@ -1,9 +1,9 @@
 # Döviz Kuru Uygulaması
 
-![Proje resmi](app_images\foto-1.png)
-![Proje resmi](app_images\foto-2.png)
-![Proje resmi](app_images\foto-3.png)
-![Proje resmi](app_images\foto-4.png)
+![Proje resmi](app_images/foto-1.png)
+![Proje resmi](app_images/foto-2.png)
+![Proje resmi](app_images/foto-3.png)
+![Proje resmi](app_images/foto-4.png)
 
 # Getting Started with Create React App
 
