@@ -5,10 +5,6 @@
 ![Proje resmi](app_images/foto-3.png)
 ![Proje resmi](app_images/foto-4.png)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
