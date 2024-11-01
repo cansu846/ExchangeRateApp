@@ -1,5 +1,8 @@
-# Döviz Kuru Uygulaması
+# React ile Döviz Kuru Uygulaması
 
+- React kullanılarak döviz kuru uygulaması gerçekleştirilmiştir. 
+- "USD,EURO,TRY" için çift taraflı olarak girilen değere göre kur hesaplanabilmektedir.
+  
 ![Proje resmi](app_images/foto-1.png)
 ![Proje resmi](app_images/foto-2.png)
 ![Proje resmi](app_images/foto-3.png)
