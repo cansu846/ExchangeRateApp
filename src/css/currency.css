@@ -1,0 +1,50 @@
+.currency-div{
+    margin-top: 50px;  
+    width: 500px;
+    height: 250px;
+    border: 2px solid black;
+}
+.currency-div div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  
+}
+.currency-div .input-group{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-left: 2px;
+    margin-right: 2px;
+
+    
+}
+
+.input-group .form-control{
+    height: 35px;
+    width: 60px;
+    margin: 3px;
+
+}
+
+
+.input-group .form-select{
+    margin: 2px;
+    height: 35px;
+    width: 70px;
+    margin: 2px;
+}
+
+.currency-div .icon{
+    display: flex;
+    margin: 10px;
+
+}
+
+.currency-div .header{
+   background-color: black;
+   color: #fff;
+  
+}
